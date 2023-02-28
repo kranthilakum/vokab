@@ -1,0 +1,10 @@
+.env
+bin/
+node_modules/
+build/
+logs/
+npm-debug.log
+package-lock.json
+.nyc_output/
+coverage/
+.DS_STORE
